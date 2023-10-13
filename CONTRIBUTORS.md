@@ -1253,6 +1253,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer
 - GitHub: [g33kcentric](https://github.com/g33kcentric)
 
+- #### Name: [Kata]
+- Place: Wild World
+- Bio: ux designer
+- GitHub: [k474m0r64n4](https://github.com/k474m0r64n4)
+
 #### Name: [KUMAR AKSHAY](https://github.com/kakshay21)
 - Place: Indore, Madhya Pradesh, India
 - Bio: Electronics and Communication student.
